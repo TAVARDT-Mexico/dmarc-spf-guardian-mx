@@ -24,7 +24,7 @@ Desarrollado y mantenido por la division de ciberseguridad e infraestructura de 
 Requiere unicamente Python 3.8 o superior, utilizando exclusivamente modulos estandar sin dependencias externas.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/dmarc-spf-guardian-mx.git
+git clone https://github.com/TAVARDT/dmarc-spf-guardian-mx.git
 cd dmarc-spf-guardian-mx
 python guardian.py empresa.mx
 ```
