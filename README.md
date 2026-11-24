@@ -1,14 +1,13 @@
 # Guardián DMARC, SPF y DKIM | TAVARDT México
 
 [![Auditoria Tecnica](https://img.shields.io/badge/TAVARDT-Seguridad%20Correo-5b3cf5.svg)](https://tools.tavardt.com/mx/verificador-dmarc-correo/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Mexico-00C853.svg)](https://ag.tavardt.com/mx/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoría de registros DNS de correo para prevención de phishing, suplantación y cumplimiento de medidas de seguridad del INAI y LFPD-PPP.
 
-Desarrollado y mantenido por la division de ciberseguridad e infraestructura de **[TAVARDT Mexico](https://ag.tavardt.com/mx/)**.
+Desarrollado y mantenido por la division de ciberseguridad e infraestructura de **TAVARDT Mexico**.
 
----
+***
 
 ## Funcionalidades y Verificaciones
 
@@ -18,7 +17,7 @@ Desarrollado y mantenido por la division de ciberseguridad e infraestructura de 
 * **Mecanismos de Informes**: Chequeo de parametros de envio de informes agregados y forenses (rua y ruf).
 * **Alineacion Normativa**: Estructurado de acuerdo con el Recomendaciones de Seguridad Digital del INAI y Ley Federal de Protección de Datos Personales (LFPD-PPP).
 
----
+***
 
 ## Instalacion y Ejecucion
 
@@ -33,20 +32,20 @@ python guardian.py empresa.mx
 Para verificar un selector DKIM especifico o generar salida en formato JSON:
 
 ```bash
-python guardian.py empresa.mx --selector mail --json
+python guardian.py empresa.mx -selector mail -json
 ```
 
----
+***
 
 ## Diagnostico Completo en la Web
 
 Para auditorias corporativas continuas con interfaz grafica, utilice la herramienta oficial:
 
-* **[Verificador DMARC y Autenticacion de Correo](https://tools.tavardt.com/mx/verificador-dmarc-correo/)**
+* **Verificador DMARC y Autenticacion de Correo**
 * **[Portal Corporativo TAVARDT Mexico](https://ag.tavardt.com/mx/)**
 
----
+***
 
 ## Soporte y Consultoria Especializada
 
-Para proyectos corporativos de ciberseguridad y proteccion de infraestructura en Mexico, contacte al equipo de **[TAVARDT Mexico](https://ag.tavardt.com/mx/contacto/)**.
+Para proyectos corporativos de ciberseguridad y proteccion de infraestructura en Mexico, contacte al equipo de **TAVARDT Mexico**.
