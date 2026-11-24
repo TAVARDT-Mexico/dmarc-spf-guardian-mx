@@ -5,7 +5,7 @@
 
 Auditoría de registros DNS de correo para prevención de phishing, suplantación y cumplimiento de medidas de seguridad del INAI y LFPD-PPP.
 
-Desarrollado y mantenido por la division de ciberseguridad e infraestructura de **TAVARDT Mexico**.
+Desarrollado y mantenido por la division de ciberseguridad e infraestructura de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python guardian.py empresa.mx -selector mail -json
 Para auditorias corporativas continuas con interfaz grafica, utilice la herramienta oficial:
 
 * **Verificador DMARC y Autenticacion de Correo**
-* **[Portal Corporativo TAVARDT Mexico](https://ag.tavardt.com/mx/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/mx/)**
 
 ***
 
 ## Soporte y Consultoria Especializada
 
-Para proyectos corporativos de ciberseguridad y proteccion de infraestructura en Mexico, contacte al equipo de **TAVARDT Mexico**.
+Para proyectos corporativos de ciberseguridad y proteccion de infraestructura en Mexico, contacte al equipo de **TAVARDT**.
 
 ***
 
