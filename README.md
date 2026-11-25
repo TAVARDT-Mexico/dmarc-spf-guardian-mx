@@ -1,12 +1,10 @@
 # Guardián DMARC, SPF y DKIM
 
-[![Licencia: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Auditoria Tecnica](https://img.shields.io/badge/TAVARDT-Seguridad%20Correo-5b3cf5.svg)](https://tools.tavardt.com/mx/verificador-dmarc-correo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditoría de registros DNS de correo para prevención de phishing, suplantación y cumplimiento de medidas de seguridad del INAI y LFPD-PPP.
-
-Desarrollado y mantenido por la division de ciberseguridad e infraestructura de **TAVARDT**.
 
 ***
 
@@ -38,15 +36,6 @@ python guardian.py empresa.mx -selector mail -json
 
 ***
 
-## Diagnostico Completo en la Web
-
-Para auditorias corporativas continuas con interfaz grafica, utilice la herramienta oficial:
-
-* **Verificador DMARC y Autenticacion de Correo**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/mx/)**
-
-***
-
 ## Soporte y Consultoria Especializada
 
 Para proyectos corporativos de ciberseguridad y proteccion de infraestructura en Mexico, contacte al equipo de **TAVARDT**.
@@ -62,7 +51,7 @@ Para proyectos corporativos de ciberseguridad y proteccion de infraestructura en
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
